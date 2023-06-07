@@ -1,0 +1,1 @@
+Python is high level language. It is interpreter language.It is open source
